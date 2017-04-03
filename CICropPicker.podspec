@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "CICropPicker"
   s.version      = "1.0.0"
-  s.summary      = "Enhanced image picker and crop for iOS."
+  s.summary      = "Enhanced image picker and crop for iOS"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
