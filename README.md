@@ -12,6 +12,11 @@ First import the Pod
 import CICropPicker
 ```
 
+Then import the module Photos to ask for permissions
+```swift
+import Photos
+```
+
 Then in your `info.plist` you need to specify these properties which will be shown alongside the alert requesting access
 
 - NSPhotoLibraryUsageDescription - for the camera roll
