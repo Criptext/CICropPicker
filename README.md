@@ -68,3 +68,7 @@ AVCaptureDevice.requestAccess(forMediaType: AVMediaTypeVideo, completionHandler:
 ## Implement the delegate `CICropPickerDelegate`
 - `imagePicker(_ imagePicker: UIImagePickerController!, pickedImage image: UIImage!)` to handle image picked
 - `imagePickerDidCancel(_ imagePicker: UIImagePickerController!)` to handle picker cancellation
+
+# Credits
+
+* Created by [**Erika Perugachi**](https://github.com/erikaperugachi).
